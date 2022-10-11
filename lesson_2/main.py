@@ -30,21 +30,40 @@ jhgjkk
 jjk
 '''
 # Matematicalyk esepter
-import math
-a = 47
-b = 3
-print(a+b)
-print(a-b)
-print(a*b)
-print(a/b)
-print(a%b)
+# import math
+# a = 47
+# b = 3
+# print(a+b)
+# print(a-b)
+# print(a*b)
+# print(a/b)
+# print(a%b)
 # 2**10 = 2*2*2*2*2*2*2*2*2*2 = 1024 
-print(2**10)
-print(34/13)
-print(34//13)
+# print(2**10)
+# print(34/13)
+# print(34//13)
+
 # math.pow(negizgi san, daraja)
 # print(math.pow(a,b))
 
+# name = "Python \n"
+# san = 10
+# print(name * san)
+# print("Python \n" * 123)
+
+
+s = "Python"
+v = 3
+a = 4
+b = 45
+lv = "2"
+nv = "3"
+kv = "3.7"
+tv = "3.8"
+print(s + str(v))
+print(int(lv) + int(nv))
+print(float(kv) + float(tv))
+print(a + b)
 
 
 
